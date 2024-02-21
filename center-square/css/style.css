@@ -1,0 +1,17 @@
+.big-box {
+    display: flex;
+    background-color: lightseagreen;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.small-box {
+    background-color: orange;
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    text-align: center;
+}
